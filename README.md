@@ -1,4 +1,4 @@
-### Eae sou Wesley Luan! 👋
+### Eae, blz!? Me chamo Wesley Luan, sejam bem-vides! 💻:octocat:
 
 ### Minha Redes Sociais
 <a href="https://www.instagram.com/wluan_sena" alt="Instagram" target="blank">
