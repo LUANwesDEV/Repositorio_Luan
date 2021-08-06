@@ -1,4 +1,4 @@
-### Eae, blz!? Me chamo Wesley Luan, sejam bem-vides! 💻:octocat:
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Eae, blz!? Me chamo Wesley Luan, sejam bem-vides! 💻:octocat:
 
 ### Minha Redes Sociais
 <a href="https://www.instagram.com/wluan_sena" alt="Instagram" target="blank">
