@@ -1,4 +1,10 @@
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Eae, blz!? Me chamo Wesley Luan, sejam bem-vides! 💻:octocat:
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Eae, blz!? Me chamo Wesley Luan, sejam bem-vides! 💻:octocat:
+
+### Um pouco sobre mim:
+
+- 🔭 Um jovem buscando sempre ser melhor do ontem!
+- 🌱 Atualmente estou aprendendo um pouco sobre o mundo da programação.
+- ⚡ Estou em formação pela Generation Brasil como Desenvolvedor java junior full stack!!
 
 ### Minha Redes Sociais
 <a href="https://www.instagram.com/wluan_sena" alt="Instagram" target="blank">
