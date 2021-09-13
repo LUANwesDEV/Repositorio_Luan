@@ -2,7 +2,7 @@
 
 ### Um pouco sobre mim:
 
-- 🔭 Um jovem buscando sempre ser melhor do ontem!
+- 🔭 Um jovem buscando sempre ser melhor do que ontem!
 - 🌱 Atualmente estou aprendendo um pouco sobre o mundo da programação.
 - ⚡ Estou em formação pela Generation Brasil como Desenvolvedor java junior full stack!!
 
