@@ -1,4 +1,4 @@
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="500px"> Eae, blz!? Me chamo Wesley Luan, sejam bem-vindes! 💻:octocat:
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/" width="50px"> Eae, blz!? Me chamo Wesley Luan, sejam bem-vindes! 💻:octocat:
 
 ### Um pouco sobre mim:
 
