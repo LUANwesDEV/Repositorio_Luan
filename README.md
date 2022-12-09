@@ -6,7 +6,7 @@
 - 🌱 Atualmente estou aprendendo sobre o mundo da programação.
 - ⚡ Formado pela Generation Brasil como Desenvolvedor java junior full stack!!
 
-### Minha Redes Sociais
+### Minha Rede Social
 <!--
 <a href="https://www.instagram.com/wluan_sena" alt="Instagram" target="blank">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/wluan_sena">
