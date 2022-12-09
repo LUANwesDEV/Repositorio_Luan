@@ -1,4 +1,4 @@
-# Eae, blz!? Sejam bem-vindes! 💻:octocat:
+# Sejam bem-vindes! 💻:octocat:
 
 ### Um pouco sobre mim:
 
